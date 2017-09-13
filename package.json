@@ -1,8 +1,11 @@
 {
   "name": "ffmpeg-ensure",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Ensure ffmpeg is avialable on the local environment",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/CatalystCode/ffmpeg-ensure"
+  },
   "dependencies": {
     "download": "^6.2.5",
     "fs-extra": "^4.0.2"
